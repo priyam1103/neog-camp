@@ -1,5 +1,6 @@
 "# neog-camp 1st assignment"
 
+CLI application user authentication and saving user secrect information to mongodb database.
 Repl it link
 ---------------
 https://repl.it/@PriyamPoddar1/neo
