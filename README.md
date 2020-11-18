@@ -6,4 +6,4 @@ https://repl.it/@PriyamPoddar1/neo
 
 Run
 -----
-https://repl.it/@PriyamPoddar1/neo
+https://repl.it/@PriyamPoddar1/neo?embed=1&output=1
